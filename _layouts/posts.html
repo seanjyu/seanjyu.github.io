@@ -4,6 +4,7 @@ layout: archive
 
 {{ content }}
 
+
 <ul class="taxonomy__index">
   {% assign postsInYear = site.posts | where_exp: "item", "item.hidden != true" | group_by_exp: 'post', 'post.date | date: "%Y"' %}
   {% for year in postsInYear %}
@@ -25,6 +26,10 @@ layout: archive
         {% include archive-single.html type=entries_layout %}
       {% endfor %}
     </div>
-    <a href="#page-title" class="back-to-top">{{ site.data.ui-text[site.locale].back_to_top | default: 'Back to Top' }} &uarr;</a>
+    <!-- Commented out section is for back to top button fore each section-->
+    <!--<a hidden href="#page-title" class="back-to-top">{{ site.data.ui-text[site.locale].back_to_top | default: 'Back to Top' }} &uarr;</a>-->
+    <a hidden href="#page-title"></a>
   </section>
 {% endfor %}
+
+<!-- for mathjax support -->

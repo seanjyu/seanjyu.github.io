@@ -15,7 +15,8 @@
     @include clearfix;
     margin-left: auto;
     margin-right: auto;
-    padding: 1em;
+    padding-bottom: 1.1em;
+    padding-top: 1em;
     max-width: 100%;
     display: -webkit-box;
     display: -ms-flexbox;
@@ -64,7 +65,7 @@
   margin-right: 0;
   width: 100%;
   clear: both;
-
+  font-size: 19px;
   .site-nav {
     margin-left: 0;
 
@@ -80,7 +81,11 @@
     list-style-type: none;
   }
 }
-
+.masthead__spacing {
+  margin-left: 0;
+  margin-right: 215px;
+  // color: $neu-red;
+}
 .masthead__menu-item {
   display: block;
   list-style-type: none;
