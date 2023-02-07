@@ -1,2 +1,2 @@
-Personal Website
-seanjyu.github.io
+Personal Website <br>
+[seanjyu.github.io](seanjyu.github.io)
