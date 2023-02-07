@@ -1,6 +1,6 @@
 ---
-layout: "blog_home"
-title: Blog
+layout: bloghome
+title: Sean Yu's Blog
 author_profile: true
 permalink: /blog_nav/
 ---

@@ -36,8 +36,10 @@ Like looking off a tall mountain after you've climbed, it's nice to see the diff
 
 ### Practice discipline and the act of doing/making things
 
-Having been in school most of my life, I realized there is a large difference between learning a concept and applying these concepts to tangible projects. I plan to write a post once every two to three weeks (depending on my school schedule and the content of the blog).
+Having been in school most of my life, I realized there is a large difference between learning a concept and applying these concepts to tangible projects. I plan to write a post ~~once every two to three weeks~~ at least once a month\* (depending on my school schedule and the content of the blog).
 
 Well, that's all I could think of (at least for now).
 
 I hope you look forward to reading my future posts!
+
+\* Updated Jan 28, 2023 - Turns out writing this blog was harder than I had originally thought.

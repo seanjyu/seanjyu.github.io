@@ -18,7 +18,7 @@ minimal_mistakes_skin: "default" # "air", "aqua", "contrast", "dark", "dirt", "n
 future: false
 locale: "en-US"
 title:
-title_separator: "-"
+title_separator: " "
 subtitle: # site tagline that appears below site title in masthead
 name: "Sean Yu"
 description: "Sean Yu's Personal Website"
