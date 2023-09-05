@@ -5,6 +5,7 @@ title: First Post
 permalink: /first_post/
 usemathjax: true
 categories: Miscellaneous
+published: false
 ---
 
 Welcome to my first blog post! <br><br>
